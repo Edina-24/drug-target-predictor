@@ -2,7 +2,7 @@
 
 A Deep Learning tool to predict the binding affinity ($pK_d$) between a drug molecule (SMILES) and a target protein (Amino Acid Sequence).
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://drug-target-predictor.streamlit.app/)
 <!-- Once deployed, replace https://share.streamlit.io with your actual app URL -->
 
 ## 🚀 Features
