@@ -1,0 +1,6 @@
+PyTDC
+torch
+streamlit
+pandas
+numpy
+scikit-learn
