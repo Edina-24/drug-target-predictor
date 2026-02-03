@@ -2,6 +2,9 @@
 
 A Deep Learning tool to predict the binding affinity ($pK_d$) between a drug molecule (SMILES) and a target protein (Amino Acid Sequence).
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+<!-- Once deployed, replace https://share.streamlit.io with your actual app URL -->
+
 ## 🚀 Features
 - **DeepDTA Architecture**: Two-branch Convolutional Neural Network (CNN) implemented in PyTorch.
 - **Interactive UI**: User-friendly web interface built with Streamlit.

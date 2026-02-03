@@ -1,6 +1,4 @@
-PyTDC
-torch
 streamlit
-pandas
+torch
 numpy
-scikit-learn
+pandas

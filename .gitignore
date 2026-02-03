@@ -26,8 +26,9 @@ venv/
 .env
 
 # Data and Models
-data/
-*.pth
+# data/ (Commented out to allow upload for demo)
+# *.pth (Commented out to allow upload for demo)
+
 *.pkl
 
 # IDEs
